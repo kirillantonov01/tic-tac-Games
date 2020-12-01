@@ -50,4 +50,4 @@
 
 ## Ссылки
 
-Packagist: <composer create-project kirillantonov/tic-tac-toe>
+Packagist: https://packagist.org/packages/kirillantonov/tic-tac-toe
