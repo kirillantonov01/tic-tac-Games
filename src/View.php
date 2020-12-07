@@ -2,7 +2,7 @@
 
 	namespace KirillAntonov\TicTacToe\View;
 
-        use function cli\prompt;
+    use function cli\prompt;
     use function cli\line;
     use function cli\out;
 
